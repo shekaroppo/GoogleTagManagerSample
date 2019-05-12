@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "430476732724",
+    "firebase_url": "https://tagmanagersample-e4d35.firebaseio.com",
+    "project_id": "tagmanagersample-e4d35",
+    "storage_bucket": "tagmanagersample-e4d35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430476732724:android:15acd2787842f2c0",
+        "android_client_info": {
+          "package_name": "com.shekar.googletagmanagersample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430476732724-ag45tv5k2h9cleo5ebd9kfd2tot3j640.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shekar.googletagmanagersample",
+            "certificate_hash": "aae66bec1dff2cfc738dfc675a6a08f232064019"
+          }
+        },
+        {
+          "client_id": "430476732724-b50vrsgdjnutu5d0pl7eg8gmh43k3pou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY2mh7z1l-0r5QAlYvDl9vZHbysspXAh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430476732724-b50vrsgdjnutu5d0pl7eg8gmh43k3pou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
