@@ -1,3 +1,3 @@
 # GoogleTagManagerSample
 
-Please [visit](http://shekar.xyz/google_tag_manager_android) blog for details 
+Please visit this (blog)(http://shekar.xyz/google_tag_manager_android) for details 
